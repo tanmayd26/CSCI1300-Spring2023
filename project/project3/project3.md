@@ -1138,7 +1138,7 @@ During the interview grading, TAs will be playing your game and asking conceptua
   and conceptual questions. 
 
 - **Thursday, April 27<sup>th</sup>, 11:59 pm: Final Deliverables**.
-  Your project will be due on **Sunday, April 27<sup>th</sup>, 11:59 pm**.
+  Your project will be due on **Thursday, April 27<sup>th</sup>, 11:59 pm**.
   You must submit a zip file to **Project 3** assignment on Canvas,
   including all `.h` and `.cpp` files. The submission should compile and run.
   TAs will also be grading comments and style. 
